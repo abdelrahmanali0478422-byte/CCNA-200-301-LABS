@@ -20,4 +20,6 @@ In this lab, I practiced basic Cisco IOS device management, host naming conventi
 ### 1. Router Configuration (`R1`)
 * **Hostname Set:** `R1`
 * **Privileged Password Setup:**
-  ```ciscolike
+  ```ciscolike<img width="690" height="703" alt="Screenshot 2026-08-28 080250" src="https://github.com/user-attachments/assets/224e98cc-af78-45be-96e0-7665b00a590e" />
+<img width="690" height="703" alt="Screenshot 2026-08-28 080250" src="https://github.com/user-attachments/assets/f15a9a99-6e2b-43d0-a1e6-a1e4cd954a9e" />
+
