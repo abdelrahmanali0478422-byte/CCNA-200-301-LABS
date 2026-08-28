@@ -21,6 +21,3 @@ In this lab, I practiced basic Cisco IOS device management, host naming conventi
 * **Hostname Set:** `R1`
 * **Privileged Password Setup:**
   ```ciscolike
-  R1(config)# enable secret <secret_password>
-  R1(config)# enable password <plain_password><img width="685" height="717" alt="Screenshot 2026-08-28 080505" src="https://github.com/user-attachments/assets/2a90b72f-1647-4fef-9d58-dde1dbae0094" />
-<img width="690" height="703" alt="Screenshot 2026-08-28 080250" src="https://github.com/user-attachments/assets/a71d406e-d48e-4c91-a606-8d0156bc935c" />
